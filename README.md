@@ -1,6 +1,8 @@
+# 🍕 Pizza Shop
+
 ![pizza-shop](https://github.com/user-attachments/assets/51786c09-9989-4669-a2c1-f5ca510a9172)
 
-# 🍕 Pizza Shop
+## Project
 
 This Food Delivery Dashboard project consists of two components: the back-end API and the front-end.
 
